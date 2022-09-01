@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/alexpazzo/bdogbot/issues"
   },
-  "homepage": "https://github.com/alexpazzo/bdogbot#readme"
+  "homepage": "https://github.com/alexpazzo/bdogbot#readme",
+  "dependencies": {
+    "discord.js": "^14.3.0",
+    "dotenv": "^16.0.2"
+  }
 }

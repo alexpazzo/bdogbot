@@ -1,0 +1,24 @@
+{
+  "name": "bdogbot",
+  "version": "1.0.0",
+  "description": "Discord bot with bdgod twich playsound",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexpazzo/bdogbot.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "bdog"
+  ],
+  "author": "Alexpazzo89",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alexpazzo/bdogbot/issues"
+  },
+  "homepage": "https://github.com/alexpazzo/bdogbot#readme"
+}
